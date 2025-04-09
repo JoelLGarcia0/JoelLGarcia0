@@ -19,7 +19,7 @@ I’m actively looking for **full-time software engineering roles** (backend or 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Typescript` `Python` `JavaScript` `SQL` `Java`
+`TypeScript` `Python` `JavaScript` `SQL` `Java`
 
 **Frameworks & Tools:**  
 `Django` `Django REST Framework` `React` `Tailwind CSS` `PostgreSQL`  
