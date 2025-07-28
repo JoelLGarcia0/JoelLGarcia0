@@ -14,9 +14,9 @@ Languages:
 TypeScript, Python, JavaScript, SQL, Java
 
 Frameworks & Tools:
-Django React Next.js Tailwind CSS PostgreSQL
-Git Postman Stripe API Cloudinary Supabase Clerk
-LangChain OpenAI API Streamlit Docker (learning)
+Django, React, Next.js, Tailwind, CSS, PostgreSQL,
+Git, Postman, Stripe, API, Cloudinary, Supabase, Clerk,
+LangChain, OpenAI, FastAPI, Streamlit, Docker (learning)
 
 🔨 Projects:
 💍 BuddhaBasha Jewelry Store
