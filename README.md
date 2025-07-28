@@ -3,8 +3,8 @@
 🎓 Computer Science Graduate @ FIU | Graduated Dec 2024
 💻 Full-Stack Developer | Python • React • Next.js • Django
 🚛 Entrepreneur | Real Estate • Trucking • Freelance Dev
-🚀 About Me
 
+About Me:
 I’m a developer with a strong foundation in Python, React, and Django, combining real-world business experience with technical skills to build practical, user-focused solutions. I’ve launched full-stack web apps, built e-commerce platforms, automated workflows with AI, and collaborated with clients to bring their ideas to life.
 
 I’m actively looking for full-time software engineering roles (backend, frontend or full-stack) starting Spring 2025.
@@ -18,7 +18,7 @@ Django React Next.js Tailwind CSS PostgreSQL
 Git Postman Stripe API Cloudinary Supabase Clerk
 LangChain OpenAI API Streamlit Docker (learning)
 
-🔨 Projects
+🔨 Projects:
 💍 BuddhaBasha Jewelry Store
  - Full-stack e-commerce platform with Stripe, Clerk auth, Supabase DB, and Shippo integration.
 🤖 AI Chatbot for Real Estate
