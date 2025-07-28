@@ -1,68 +1,45 @@
-# 👋 Hi, I’m Joel Garcia
+👋 Hi, I’m Joel Garcia
 
-🎓 Computer Science Graduate @ FIU | Graduated Dec 2024  
-💻 Backend/Frontend Developer | Full-Stack Projects | Freelance Dev  
-🚛 Entrepreneur: Property Manager | Trucking Ops | Commercial Leasing
+🎓 Computer Science Graduate @ FIU | Graduated Dec 2024
+💻 Full-Stack Developer | Python • React • Next.js • Django
+🚛 Entrepreneur | Real Estate • Trucking • Freelance Dev
+🚀 About Me
 
----
+I’m a developer with a strong foundation in Python, React, and Django, combining real-world business experience with technical skills to build practical, user-focused solutions. I’ve launched full-stack web apps, built e-commerce platforms, automated workflows with AI, and collaborated with clients to bring their ideas to life.
 
-## 🚀 About Me
+I’m actively looking for full-time software engineering roles (backend, frontend or full-stack) starting Spring 2025.
+🛠️ Tech Stack
 
-I'm a developer who brings a mix of **technical skill** and **business know-how** to the table. I’ve built full-stack apps with Django and React, managed properties, helped run a trucking company, supported a family laundromat business, and handled commercial lease negotiations for my family’s businesses.
+Languages:
+TypeScript, Python, JavaScript, SQL, Java
 
-I love building tools that solve real problems — whether for clients, small businesses, or my own ventures.
+Frameworks & Tools:
+Django React Next.js Tailwind CSS PostgreSQL
+Git Postman Stripe API Cloudinary Supabase Clerk
+LangChain OpenAI API Streamlit Docker (learning)
 
-I’m actively looking for **full-time software engineering roles** (backend or full-stack) starting **Spring 2025**.
+🔨 Projects
+💍 BuddhaBasha Jewelry Store
+ - Full-stack e-commerce platform with Stripe, Clerk auth, Supabase DB, and Shippo integration.
+🤖 AI Chatbot for Real Estate
+ - Streamlit chatbot using OpenAI and Supabase with a dashboard for dynamic prompt control.
+🏗️ Lee Construction Website
+- Client site built with Next.js, featuring an admin panel, Redis for project data, and Nodemailer contact form.
+  
+🎯 Current Focus
 
----
+    - Building scalable full-stack apps with Django + React
 
-## 🛠️ Tech Stack
+    - Enhancing freelance client work through automation and clean UI
 
-**Languages:**  
-`TypeScript` `Python` `JavaScript` `SQL` `Java`
+    - Practicing algorithms and Python on LeetCode
 
-**Frameworks & Tools:**  
-`Django` `Django REST Framework` `React` `Tailwind CSS` `PostgreSQL`  
-`Git` `Postman` `Docker` (learning) `JWT Auth` `Springboot`
+    - Preparing for interviews and growing my GitHub portfolio
 
-**Other Experience:**  
-- Building internal tools for property management  
-- Simulating memory allocation in OS projects  
-- Working on freelance websites for local businesses (Next.js + Tailwind)
+📬 Let’s Connect
 
----
+🌐 Portfolio Website
+💼 LinkedIn
+💌 Email
 
-## 🔨 Projects
-
-### 🧱 [Property Management App](https://github.com/joelgarcia/property-management-app)
-A full-featured backend for managing properties, leases, applications, and payments.  
-→ Django REST API with role-based permissions (tenants vs landlords).  
-→ PostgreSQL, JWT Auth, fully documented with Postman collections.
-
-### 🌐 [RESTweb Dev](https://github.com/joelgarcia/restweb-dev-site)
-Freelance dev site built with Next.js + Tailwind CSS.  
-→ Custom clean responsive design.
-
-### 💍 Jewelry Store Website (in progress)
-Next.js frontend + Django backend e-commerce site with payment integration for a small business client.
-
----
-
-## 🎯 Current Focus
-
-- Practicing Python + algorithms on LeetCode  
-- Polishing frontend for my property management app  
-- Updating my portfolio and resume for job applications  
-- Marketing RESTweb Dev freelance services in South Florida
-
----
-
-## 📬 Let’s Connect
-
-- 🌐 [Portfolio Website](https://joellgarcia.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/joel-garcia-69163a20b/)  
-- 💌 [Email](mailto:joellorenzogarcia0@gmail.com)
-
----
-
-_Thanks for visiting my profile! Always happy to connect and collaborate._ 🙌
+Let’s build something awesome — open to collaborations and new opportunities! 🚀
