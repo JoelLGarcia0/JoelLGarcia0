@@ -38,8 +38,8 @@ LangChain OpenAI API Streamlit Docker (learning)
 
 📬 Let’s Connect
 
-🌐 Portfolio Website
-💼 LinkedIn
-💌 Email
 
+- 🌐 [Portfolio Website](https://joellgarcia.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/joellorenzogarcia)  
+- 💌 [Email Me](mailto:joellorenzogarcia0@gmail.com)
 Let’s build something awesome — open to collaborations and new opportunities! 🚀
