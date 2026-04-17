@@ -1,12 +1,12 @@
-# 👋 Hi, I’m Joel Garcia
+# Hi, I’m Joel Garcia
 
-💻 Full-Stack Software Engineer (Backend-Focused)  
-⚙️ Python • Django • Flask • React • Next.js • Docker  
-📍 Miami, FL  
+Full-Stack Software Engineer (Backend-Focused)  
+Python • Django • Flask • React • Next.js • Docker  
+Miami, FL  
 
 ---
 
-## 📌 About Me
+## About Me
 
 I’m a full-stack software engineer with a strong focus on **backend systems, API development, and debugging production environments**.
 
@@ -22,7 +22,7 @@ I actively use **AI tools and LLM workflows** to improve development speed, debu
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Languages:**  
 `Python` `TypeScript` `JavaScript` `SQL` 
@@ -41,7 +41,7 @@ I actively use **AI tools and LLM workflows** to improve development speed, debu
 
 ---
 
-## 🎯 Current Focus
+## Current Focus
 
 - Backend engineering & API design  
 - Debugging production systems & improving reliability  
@@ -50,11 +50,11 @@ I actively use **AI tools and LLM workflows** to improve development speed, debu
 
 ---
 
-## 📬 Let’s Connect
+## Let’s Connect
 
-- 🌐 [Portfolio](https://joellgarcia.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/joellorenzogarcia)  
-- 💌 [Email](mailto:joellorenzogarcia0@gmail.com)
+- [Portfolio](https://joellgarcia.com)  
+- [LinkedIn](https://www.linkedin.com/in/joellorenzogarcia)  
+- [Email](mailto:joellorenzogarcia0@gmail.com)
 
 ---
 
