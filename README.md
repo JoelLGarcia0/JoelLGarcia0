@@ -1,61 +1,61 @@
 # 👋 Hi, I’m Joel Garcia
 
-🎓 Computer Science Graduate @ FIU | Graduated Dec 2024  
-💻 Full-Stack Developer | Python • React • Next.js • Django  
-🚛 Entrepreneur | Real Estate • Trucking • Freelance Dev
+💻 Full-Stack Software Engineer (Backend-Focused)  
+⚙️ Python • Django • Flask • React • Next.js • Docker  
+📍 Miami, FL  
 
 ---
 
 ## 📌 About Me
 
-I’m a developer with a strong foundation in **Python, React, and Django**, combining real-world business experience with technical skills to build practical, user-focused solutions.  
+I’m a full-stack software engineer with a strong focus on **backend systems, API development, and debugging production environments**.
 
-I’ve launched full-stack web apps, built e-commerce platforms, automated workflows with AI, and collaborated with clients to bring their ideas to life.  
+I’ve been building and maintaining REST APIs using **Django and Flask**, while contributing to frontend features and fixes in **React/Next.js** applications. I’m comfortable working across the stack to deliver end-to-end functionality and troubleshoot real-world issues.
 
-I’m actively looking for **full-time software engineering roles** (backend, frontend, or full-stack) starting **Spring 2025**.
+My experience includes developing and executing **API testing strategies** using **Postman and pytest**, helping ensure reliability across services.
+
+On the infrastructure side, I’ve worked with **Docker and containerized applications**, connecting to servers via SSH, analyzing logs, and debugging issues directly in deployed environments.
+
+I also have experience working with **relational databases**, writing SQL queries, understanding schemas, and supporting backend-driven feature development.
+
+I actively use **AI tools and LLM workflows** to improve development speed, debugging, and code quality.
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`TypeScript` `Python` `JavaScript` `SQL` `Java`  
+`Python` `TypeScript` `JavaScript` `SQL` 
 
-**Frameworks & Tools:**  
-`Django` `React` `Next.js` `Tailwind CSS` `PostgreSQL`  
-`Git` `Postman` `Stripe API` `Cloudinary` `Supabase` `Clerk`  
-`LangChain` `OpenAI` `FastAPI` `Streamlit` `Docker (learning)`
+**Backend & APIs:**  
+`Django` `Flask` `FastAPI` `PostgreSQL` `MySQL`  
 
----
+**Frontend:**  
+`React` `Next.js` `Tailwind CSS`  
 
-## 🔨 Projects
+**Tools & Infrastructure:**  
+`Docker` `Git` `Postman` `pytes` `Kubernetes`
 
-### 💍 BuddhaBasha Jewelry Store  
-Full-stack e-commerce platform with Stripe, Clerk auth, Supabase DB, and Shippo integration.
-
-### 🤖 AI Chatbot for Real Estate  
-Streamlit chatbot using OpenAI and Supabase with a dashboard for dynamic prompt control.
-
-### 🏗️ Lee Construction Website  
-Client site built with Next.js, featuring an admin panel, Redis for project data, and Nodemailer contact form.
+**Other:**  
+`Stripe API` `Cloudinary` `Supabase` `Clerk` `OpenAI` `LangChain`  
 
 ---
 
 ## 🎯 Current Focus
 
-- Building scalable full-stack apps with Django + React  
-- Enhancing freelance client work through automation and clean UI  
-- Practicing algorithms and Python on LeetCode  
-- Preparing for interviews and growing my GitHub portfolio
+- Backend engineering & API design  
+- Debugging production systems & improving reliability  
+- System performance and scalability  
+- Growing expertise in Docker and infrastructure  
 
 ---
 
 ## 📬 Let’s Connect
 
-- 🌐 [Portfolio Website](https://joellgarcia.com)  
+- 🌐 [Portfolio](https://joellgarcia.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/joellorenzogarcia)  
-- 💌 [Email Me](mailto:joellorenzogarcia0@gmail.com)
+- 💌 [Email](mailto:joellorenzogarcia0@gmail.com)
 
 ---
 
-_Let’s build something awesome — open to collaborations and new opportunities!_ 🚀
+_Building real systems, solving real problems._ 🚀
